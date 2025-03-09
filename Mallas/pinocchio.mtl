@@ -1,0 +1,62 @@
+# Blender 4.3.2 MTL File: 'tarea.blend'
+# www.blender.org
+
+newmtl lambert2SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/signature/3D models/play-station-2-kingdom-hearts-pinocchio/source/PlayStation 2 - Kingdom Hearts - Pinocchio/Pinocchio/texture000.png
+
+newmtl lambert3SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/signature/3D models/play-station-2-kingdom-hearts-pinocchio/source/PlayStation 2 - Kingdom Hearts - Pinocchio/Pinocchio/texture001.png
+
+newmtl lambert4SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/signature/3D models/play-station-2-kingdom-hearts-pinocchio/source/PlayStation 2 - Kingdom Hearts - Pinocchio/Pinocchio/texture002.png
+
+newmtl lambert5SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/signature/3D models/play-station-2-kingdom-hearts-pinocchio/source/PlayStation 2 - Kingdom Hearts - Pinocchio/Pinocchio/texture003.png
+
+newmtl lambert6SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/signature/3D models/play-station-2-kingdom-hearts-pinocchio/source/PlayStation 2 - Kingdom Hearts - Pinocchio/Pinocchio/texture004.png
+
+newmtl lambert7SG
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:/signature/3D models/play-station-2-kingdom-hearts-pinocchio/source/PlayStation 2 - Kingdom Hearts - Pinocchio/Pinocchio/texture005.png

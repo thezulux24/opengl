@@ -1,0 +1,22 @@
+# Blender 4.3.2 MTL File: 'tarea.blend'
+# www.blender.org
+
+newmtl Abandoned_Farm_House_with_Hay_u1_v1
+Ns 4.999998
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/signature/3D models/abandoned-farm-house-with-hay/source/Abandoned_Farm_House_with_Hay/Abandoned_Farm_House_with_Hay_u1_v1.jpeg
+
+newmtl Abandoned_Farm_House_with_Hay_u2_v1
+Ns 4.999998
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/signature/3D models/abandoned-farm-house-with-hay/source/Abandoned_Farm_House_with_Hay/Abandoned_Farm_House_with_Hay_u2_v1.jpeg
