@@ -11,7 +11,7 @@
 #include <time.h>
 #include "glm.h"
 #include <FreeImage.h> //*** Para Textura: Incluir librería
-#define NM 15
+#define NM 8
 //-----------------------------------------------------------------------------
 
 class myWindow : public cwc::glutWindow {
@@ -28,7 +28,7 @@ protected:
     float zoom;          // Distancia de la cámara
     GLMmodel* objmodel_ptr[NM];
     GLMmodel* objmodel_ptr1[NM]; // Para Textura: objetos texturizados
-    GLuint texid[NM]; // Usamos los primeros 4 índices para texturas
+    GLuint texid[NM]; // Usamos los primeros n índices para texturas
 
 public:
     myWindow() : rotationAngle(0.0f), cameraHeight(1.0f), zoom(4.0f) {}
@@ -124,6 +124,7 @@ public:
         DibujarMalla(3, 0.01f, -0.08f, 1.01f, 1, 2.0f, 90.0f);
 		DibujarMalla(4, 0.8f, -0.2f, 0.6f, 1, 1.3f, 90.0f);
 		DibujarMalla(0, 0.8f, -0.26f, 1.1f, 0, 2.0f, 0.0f);
+		DibujarMalla(1, -1.0f, 0.0f, 1.0f, 0, 0.4f, 0.0f);
         glPopMatrix();
         glutSwapBuffers();
         UpdateTimer();
@@ -168,6 +169,7 @@ public:
         abrirMalla("./Mallas/cadena.obj", 3, 1);
         abrirMalla("./Mallas/casaperro.obj", 4, 1);
 		abrirMalla("./Mallas/pollo.obj", 0, 0);
+		abrirMalla("./Mallas/arbol.obj", 1, 0);
 
         // Cargar las texturas correspondientes
         initialize_textures(0, "./Mallas/granja.jpeg");
